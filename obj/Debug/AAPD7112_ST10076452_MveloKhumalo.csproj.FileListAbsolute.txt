@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\bin\Debug\AAPD7112_ST10076452_MveloKhumalo.exe.config
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\bin\Debug\AAPD7112_ST10076452_MveloKhumalo.exe
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\bin\Debug\AAPD7112_ST10076452_MveloKhumalo.pdb
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.Properties.Resources.resources
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.exe
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.pdb
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.exe.config
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.Form1.resources
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.ReportIssuesForm.resources
