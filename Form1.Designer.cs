@@ -83,6 +83,8 @@
 
         private void btnLocalEvents_Click(object sender, System.EventArgs e)
         {
+            EventsForm eventForm = new EventsForm();
+            eventForm.Show();
         }
 
         private void btnServiceStatus_Click(object sender, System.EventArgs e)

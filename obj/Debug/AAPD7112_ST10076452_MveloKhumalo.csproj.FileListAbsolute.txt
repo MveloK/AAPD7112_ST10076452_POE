@@ -10,3 +10,4 @@ C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_S
 C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.exe.config
 C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.Form1.resources
 C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.ReportIssuesForm.resources
+C:\Users\User\source\repos\AAPD7112_ST10076452_MveloKhumalo\obj\Debug\AAPD7112_ST10076452_MveloKhumalo.EventsForm.resources
