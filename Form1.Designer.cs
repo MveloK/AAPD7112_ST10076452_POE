@@ -89,6 +89,8 @@
 
         private void btnServiceStatus_Click(object sender, System.EventArgs e)
         {
+            ServiceRequest serviceRequest = new ServiceRequest();
+            serviceRequest.Show();
         }
     }
 }
